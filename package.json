@@ -19,9 +19,9 @@
     }
   ],
   "dependencies": {
-    "jsdom": "0.8.x",
-    "request": "~2.40.0",
-    "encoding": "~0.1.7"
+    "encoding": "^0.1.8",
+    "jsdom": "^1.0.0-pre.3",
+    "request": "^2.40.0"
   },
   "engines": [
     "node >=0.8.0"
