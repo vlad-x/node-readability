@@ -19,9 +19,15 @@
     }
   ],
   "dependencies": {
-    "encoding": "^0.1.8",
-    "jsdom": "^1.0.0-pre.3",
-    "request": "^2.40.0"
+    "commander": "0.6.1",
+    "debug": "2.0.0",
+    "diff": "1.0.2",
+    "encoding": "0.1.8",
+    "growl": "1.7.0",
+    "jade": "0.26.3",
+    "jsdom": "1.0.2",
+    "ms": "0.3.0",
+    "request": "2.40.0"
   },
   "engines": [
     "node >=0.8.0"
